@@ -1,7 +1,6 @@
 # java-polymorphism-explained
 
 Let's examine the topic of polymorphism through 4 different examples.
-I will go from simple to tricky.
 The first example is a classic one:
 Let's have an Animal class, a Bird class that extends it, and a BabyBird class that extends Bird.
 Something like this:
